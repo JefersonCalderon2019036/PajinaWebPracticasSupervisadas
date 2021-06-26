@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://wallpaperslinks.com/wp-content/uploads/2019/12/coastal-town-minimalist-4k-51-1080x1920.jpg);
+    overflow: hidden;
+}
+
+.img-avatar {
+    width: 220px;
+    margin-left: 35%;
+    margin-top: 2%;
+    border-radius: 30%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.contenedor-login {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    margin-bottom: 8%;
+    background-color: rgba(82, 82, 83, 0.781);
+    border-radius: 15%;
+    -webkit-border-radius: 15%;
+    -moz-border-radius: 15%;
+    -ms-border-radius: 15%;
+    -o-border-radius: 15%;
+    box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.titulo {
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+}
+
+.descripcion {
+    color: white;
+    font-size: xx-larger;
+    margin-right: 5%;
+}
+
+.cont-username {
+    display: flex;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
+.cajas {
+    border: none;
+    border-bottom: 3px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 30px;
+    width: 50%;
+    color: #fff;
+    font-size: 16px;
+    margin-left: 3%;
+    border-radius: 5%;
+    -webkit-border-radius: 5%;
+    -moz-border-radius: 5%;
+    -ms-border-radius: 5%;
+    -o-border-radius: 5%;
+    box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    ;
+}
+
+.cajas1 {
+    border: none;
+    border-bottom: 3px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 30px;
+    width: 47%;
+    color: #fff;
+    font-size: 16px;
+    margin-left: 3%;
+    border-radius: 5%;
+    -webkit-border-radius: 5%;
+    -moz-border-radius: 5%;
+    -ms-border-radius: 5%;
+    -o-border-radius: 5%;
+    box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    ;
+}
+
+.cont-password {
+    display: flex;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+.boton-login {
+    background: white;
+    height: 30px;
+    width: 30%;
+    border-radius: 5%;
+    -webkit-border-radius: 5%;
+    -moz-border-radius: 5%;
+    -ms-border-radius: 5%;
+    -o-border-radius: 5%;
+    margin-left: 35%;
+    margin-top: 5%;
+    text-decoration: none;
+}
+
+.menu-ul {
+    display: flex;
+    color: white;
+}
+
+.menu-li {
+    list-style: none;
+    margin-top: 5%;
+    margin-left: 17%;
+    margin-bottom: 5%;
+}
+
+.texto {
+    font-style: none;
+    color: #fff;
+    text-decoration: none
+}

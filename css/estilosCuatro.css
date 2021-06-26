@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://wallpaperslinks.com/wp-content/uploads/2019/12/coastal-town-minimalist-4k-51-1080x1920.jpg);
+}
+
+.contenedor-general {
+    background-color: black;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    border-radius: 8%;
+    -webkit-border-radius: 8%;
+    -moz-border-radius: 8%;
+    -ms-border-radius: 8%;
+    -o-border-radius: 8%;
+    box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.contenedor-informacion {
+    background-color: rgba(82, 82, 83, 0.781);
+    width: 100%;
+    margin-bottom: 0.5%;
+    border-radius: 15%;
+    -webkit-border-radius: 15%;
+    -moz-border-radius: 15%;
+    -ms-border-radius: 15%;
+    -o-border-radius: 15%;
+    box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.contenedor-informacion1 {
+    background-color: rgba(82, 82, 83, 0.781);
+    width: 100%;
+    margin-bottom: 0.5%;
+    border-radius: 15%;
+    -webkit-border-radius: 15%;
+    -moz-border-radius: 15%;
+    -ms-border-radius: 15%;
+    -o-border-radius: 15%;
+    box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.barra-superior {
+    display: flex;
+    width: 100%;
+    margin-bottom: 10%;
+}
+
+.regreso {
+    width: 50%;
+    margin-top: 10%;
+    margin-bottom: 3%;
+    margin-left: 30%;
+}
+
+.trespuntos {
+    width: 1.5%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    margin-left: 4%;
+}
+
+.acciones {
+    color: white;
+    text-decoration: none;
+    font-size: x-large;
+    margin-left: 47%;
+    margin-top: 4%;
+}
+
+.acciones2 {
+    color: white;
+    text-decoration: none;
+    font-size: x-large;
+    margin-left: 5%;
+    margin-top: 4%;
+}
+
+.Nombre-del-contacto {
+    color: white;
+    text-align: center;
+    margin-top: 12%;
+    margin-bottom: 2%;
+}
+
+.telefono-del-contacto {
+    color: rgb(129, 129, 129);
+    text-align: center;
+    margin-top: 3%;
+}
+
+.camara {
+    position: absolute;
+    top: 18%;
+    left: 40%;
+    width: 20%;
+}
+
+.iconos-de-acciones {
+    display: flex;
+    margin-left: 25%;
+}
+
+.iconos-acciones {
+    width: 8%;
+    margin-left: 10%;
+}
+
+.palabra-movil {
+    color: white;
+    font-size: large;
+}
+
+.numero-movil {
+    color: rgb(129, 129, 129);
+    font-size: large;
+    margin-left: ;
+}
+
+.numero-movil2 {
+    color: rgb(129, 129, 129);
+    font-size: large;
+    margin-left: 3%;
+}
+
+.iconos-de-acciones2 {
+    display: flex;
+    width: 40%;
+    margin-left: 15%;
+}
+
+.iconos-acciones2 {
+    width: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.iconos-acciones3 {
+    width: 10%;
+    margin-left: 40%;
+    margin-right: 5%;
+}
+
+.datos-movil {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.contenedor-movil {
+    width: 40%;
+    margin-left: 13%;
+}
+
+.lineas {
+    color: white;
+    font-size: large;
+    margin-left: 10%;
+}

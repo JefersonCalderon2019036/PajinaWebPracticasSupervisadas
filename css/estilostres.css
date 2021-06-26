@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://wallpaperslinks.com/wp-content/uploads/2019/12/coastal-town-minimalist-4k-51-1080x1920.jpg);
+    overflow: hidden;
+}
+
+.contenedor-general {
+    background-color: black;
+    width: 80%;
+    border-radius: 5%;
+    margin-left: 10%;
+    margin-top: 5%;
+    border-radius: 8%;
+    -webkit-border-radius: 8%;
+    -moz-border-radius: 8%;
+    -ms-border-radius: 8%;
+    -o-border-radius: 8%;
+    box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.barra-superior {
+    display: flex;
+    width: 100%;
+    background-color: black;
+}
+
+.contenedor-cuentas {
+    width: 40%;
+    margin-left: 5%;
+}
+
+.seleccion-cuentas-google {
+    color: white;
+    background-color: black;
+    width: 100%;
+    border: none;
+    box-shadow: -1px 0 black, 0 2px white, 1px 0 black, 0 -1px black;
+    margin-bottom: 2%;
+}
+
+.palabra-google {
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.palabra-accion {
+    color: white;
+    text-decoration: none;
+    font-size: x-large;
+    margin-left: 15%;
+    margin-top: 4%;
+}
+
+.contenedor-infor {
+    background-color: rgba(82, 82, 83, 0.781);
+    margin-top: 5%;
+    border-radius: 8%;
+    -webkit-border-radius: 8%;
+    -moz-border-radius: 8%;
+    -ms-border-radius: 8%;
+    -o-border-radius: 8%;
+    box-shadow: -1px 0 white, 0 2px white, 1px 0 white, 0 -1px white;
+}
+
+.nombre {
+    display: flex;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.avatar {
+    width: 8%;
+}
+
+.avatar2 {
+    width: 6%;
+}
+
+.palabras-info {
+    color: rgba(149, 149, 150, 0.856);
+    text-decoration: none;
+    font-size: xx-large;
+    margin-top: 2%;
+    margin-left: 3%;
+}
+
+.contactos {
+    width: 10%;
+    position: absolute;
+    top: 17%;
+    left: 45%;
+}
+
+.cajas {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 1%;
+    background-color: rgba(82, 82, 83, 0.781);
+    border: none;
+    box-shadow: -1px 0 rgba(82, 82, 83, 0.781), 0 2px rgb(243, 117, 0), 1px 0 rgba(82, 82, 83, 0.781), 0 -1px rgba(82, 82, 83, 0.781);
+}
+
+.cajas2 {
+    width: 78%;
+    right: 10%;
+    margin-left: 5%;
+    background-color: rgba(82, 82, 83, 0.781);
+    border: none;
+    box-shadow: -1px 0 rgba(82, 82, 83, 0.781), 0 2px rgb(243, 117, 0), 1px 0 rgba(82, 82, 83, 0.781), 0 -1px rgba(82, 82, 83, 0.781);
+}

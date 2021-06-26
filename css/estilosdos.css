@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://wallpaperslinks.com/wp-content/uploads/2019/12/coastal-town-minimalist-4k-51-1080x1920.jpg);
+}
+
+.contenedor-general {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    background-color: rgba(19, 18, 18, 0.849);
+    border-radius: 10%;
+    -webkit-border-radius: 10%;
+    -moz-border-radius: 10%;
+    -ms-border-radius: 10%;
+    -o-border-radius: 10%;
+    box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.contactos {
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 30%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.nombre-propietario {
+    color: white;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.barra-de-acciones {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.menu-img {
+    width: 5%;
+    margin-left: 8%;
+}
+
+.palabra-contactos {
+    color: white;
+    margin-left: 2.5%;
+    margin-top: 0.5%;
+}
+
+.qr-img {
+    width: 5%;
+    margin-left: 40%;
+}
+
+.lupa-img {
+    width: 5%;
+    margin-left: 5%;
+}
+
+.trespuntos-img {
+    width: 15%;
+    margin-left: 30%;
+}
+
+.icono-contactos {
+    width: 8%;
+    margin-left: 5%;
+    margin-top: 2%;
+    border-radius: 75%;
+    -webkit-border-radius: 75%;
+    -moz-border-radius: 75%;
+    -ms-border-radius: 75%;
+    -o-border-radius: 75%;
+    box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.contactos-recientes {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    background-color: rgba(82, 82, 83, 0.781);
+    border-radius: 8%;
+    -webkit-border-radius: 8%;
+    -moz-border-radius: 8%;
+    -ms-border-radius: 8%;
+    -o-border-radius: 8%;
+}
+
+.contactos-li {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    list-style: none;
+}
+
+.Recientes {
+    color: rgb(150, 146, 146);
+    margin-left: 25%;
+    font-size: xx-large;
+}
+
+.info {
+    display: flex;
+}
+
+.nombres {
+    color: white;
+}
+
+.datos {
+    margin-left: 6%;
+    margin-top: 3%;
+}
+
+.icono-mas {
+    position: fixed;
+    width: 10%;
+    top: 85%;
+    left: 77%;
+    border-radius: 75%;
+    -webkit-border-radius: 75%;
+    -moz-border-radius: 75%;
+    -ms-border-radius: 75%;
+    -o-border-radius: 75%;
+    box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.menu-fixed {
+    display: flex;
+    position: fixed;
+    top: -7%;
+    left: -0.1%;
+    background-color: rgba(19, 18, 18, 0.849);
+    border-radius: 5%;
+    -webkit-border-radius: 5%;
+    -moz-border-radius: 5%;
+    -ms-border-radius: 5%;
+    -o-border-radius: 5%;
+    box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.vinculos {
+    text-decoration: none;
+}
